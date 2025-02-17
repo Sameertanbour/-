@@ -127,7 +127,7 @@
         </div>
     </div>
     <footer>
-        &copy; 2025 - جميع الحقوق محفوظة لسمير الطنبور
+        &copy; 2025 - جميع الحقوق محفوظة لدى سمير الطنبور
         <div class="social-links">
             <a href="https://www.instagram.com/s.07.rt/" target="_blank">إنستغرام</a> |
             <a href="https://www.youtube.com/channel/UCMD4uNByqfjNILlc9XhJ7Hg" target="_blank">يوتيوب</a>
